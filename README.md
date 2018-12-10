@@ -8,6 +8,13 @@ These links files provideds sameAs links between LOD4CG and LOD datasets.
 * CNVD (Copy Number Variation in Disease)
 * TCGA (The Cancer Genome Atlas)
 
+# LOD4CG SPARQl Endpoint:
+* COSMIC Copy Number Varation (http://cosmic-cnv.bioopener.datascienceinstitute.ie/sparql)
+* CNVD (http://cnvd.bioopener.datascienceinstitute.ie/sparql)
+* TCGA-Ovarian-Methylation (tcga-ov-meth.bioopener.datascienceinstitute.ie/sparql)
+* TCGA-Ovarian-Gene Expression (tcga-ov-ge.bioopener.datascienceinstitute.ie/sparql)
+* TCGA-Ovarian-Copy Number Varation (tcga-ov-cnv.bioopener.datascienceinstitute.ie/sparql)
+
 
 # LOD Datasets:
 * KEGG
