@@ -20,9 +20,9 @@ the genomic alternations found in all cancers.
 
 
 # LOD Datasets:
+* DBPEDIA
 * KEGG
 * PharmGKB
-* DBPEDIA
 * GOA
 
 
