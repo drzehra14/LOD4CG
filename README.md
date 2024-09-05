@@ -25,6 +25,7 @@ the genomic alternations found in all cancers.
 * PharmGKB
 * GOA
 
-
+## Citation
+- Citation: If you are using this dataset for research and development purposes, please cite: https://ceur-ws.org/Vol-2477/paper_3.pdf
 
 
